@@ -7,7 +7,7 @@ the [Slick FRM](http://slick.typesafe.com/doc/3.1.0/)
 This is a purposely minimalist take on DB access to demonstrate the
 bare essentials to get started with setting up your code base.  
 
-You can read a little more about the code in my blog post : [BLOG POST LINK]()
+You can read a little more about the code in my blog post : [BLOG POST LINK](http://www.hashbangbin.sh/posts/getting-started-scala-%2B-slick-%2B-postgresql-mysql/)
 
 ### HOWTO
 
